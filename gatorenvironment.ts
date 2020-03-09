@@ -35,7 +35,7 @@ namespace gatorEnvironment {
 	*/
 	//% weight=32 
 	//% blockId="gatorEnvironment_beginEnvironment" 
-	//% block="initialize gator:Environment sensors"
+	//% block="initialize Qwiic Environmental Combo Board"
 	//% shim=gatorEnvironment::beginEnvironment
 	export function beginEnvironment(){
 		return
